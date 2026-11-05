@@ -1,1 +1,1 @@
-https://exir-backend-url.b-cdn.net/url.txt
+https://exirpro.org:8443
